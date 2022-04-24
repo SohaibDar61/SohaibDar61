@@ -1,12 +1,10 @@
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-<br>
-  
-  
+	<img src="https://raw.githubusercontent.com/SohaibDar/sarthakbh321/master/intro.gif">
+</div>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
-</div>
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
 
 ### Hi there 👋
 
