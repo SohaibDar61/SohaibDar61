@@ -29,7 +29,7 @@
  
  
  **I am also passionate about taking my part in spreading free high quality knowledge on the form of articles,
-posts, and videos. I created this GitHub account for this purpose, so I could share with you high quality industry-grade code.
+posts, and videos. I created this GitHub account for this purpose, so I could share with you high quality industry-grade code.**
  <!--
 **SohaibDar61/SohaibDar61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
