@@ -10,9 +10,6 @@
   to success and grow professionally where I can utilize my skills ,experience and practicing projects to take
   a significant contributions at the company that i will be part of and allow me to achieve more progress and success.
  
-
-## My CV 
-[![CV](https://img.shields.io/badge/-CV-2CA5E0?style=for-the-badge&logo=CV&logoColor=white)](https://drive.google.com/file/d/1qrRXYgpiEvrg3V4dEcZrmgbGI2ermq7_/view?usp=sharing)
  
 
  
@@ -21,8 +18,6 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sohaibdar61)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.sohaibdar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibdar61/)
- 
- 
  
  
  
