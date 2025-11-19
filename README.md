@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm currently working on:<br>    * [cite_start]Leveraging 5 years of experience as a Software Instructor and developing my expertise as an Embedded Software Engineer[cite: 10].<br>    * Seeking to contribute my knowledge in software development and education to a forward-thinking organization[cite: 12].<br><br>I'm looking to collaborate on:<br>    * Projects requiring expertise in **C/C++**, **Rust**, **Assembly**, and **Python** programming for embedded systems[cite: 40].<br>    * Embedded software design, implementation, and documentation for light current systems[cite: 27, 28].<br>    * Development using communication protocols like **CAN**, **LIN**, **SPI**, **I2C**, **UART**, and **Ethernet**[cite: 42].<br><br>I'm looking for help with:<br>    * Further professional growth in the embedded software field, particularly in areas related to **AUTOSAR** configuration and **ISO26262** standards[cite: 43, 44]. (This is a professional growth area implied by the skills listed).<br><br>I'm currently learning:<br>    * Deepening knowledge and practical application of real-time operating systems (**RTOS**), including **FreeRTOS** and **OSEK OS**[cite: 43, 47].<br>    * Advanced topics in artificial intelligence concepts and applications[cite: 45].<br><br>Ask me about:<br>    * Designing and testing firmware, hardware, and software[cite: 27, 28, 29].<br>    * Microcontrollers such as **STM32**, **AVR**, **PIC**, and **RH850/F1KM-S1**[cite: 41].<br>    * Teaching and simplifying complex technical concepts for diverse audiences[cite: 11].<br><br>Fun fact:<br>    * I have a Bachelor of Engineering in Communications and Electronics [cite: 35] [cite_start]and have developed diverse projects, from a **Smart Garage System** to an **Automotive Door Control System**[cite: 49].<br>    * I am fluent in English and my mother language is Arabic, with elementary proficiency in Spanish[cite: 53, 54, 55].<br>
+I'm currently working on: Leveraging 5 years of experience as a Software Instructor and actively developing my career as an Embedded Software Engineer. I seek to contribute my expertise in software development and education to a forward-thinking organization.
+
+I'm looking to collaborate on: Embedded software design and implementation using C/C++, Rust, and Python, particularly for systems involving automotive protocols like CAN and LIN, or general protocols such as I2C and SPI.
+
+I'm looking for help with: Further specialization in advanced automotive embedded topics, including hands-on configuration of AUTOSAR modules and deepening knowledge of the ISO26262 standard.
+
+I'm currently learning: Practical applications of real-time operating systems (RTOS), including OSEK and FreeRTOS, and honing my skills in hardware-related programming and debugging tools like JTAG.
+
+Ask me about: Designing, implementing, and testing firmware/software for microcontrollers (STM32, AVR, RH850), multitasking architectures (Super Loop, Time-Triggered), and simplifying complex technical concepts for learners.
+
+Fun fact: I have a background in Communications and Electronics Engineering, and I've built projects ranging from a Smart Garage System to an Automotive Door Control System.
 
 
 ## 🌐 Socials:
